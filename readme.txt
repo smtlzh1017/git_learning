@@ -1,5 +1,5 @@
 this is my first git learning.
 i wish i can learn more.
 this is master
-this is the tmp branch
-		--李志辉
+keep going!!!
+		--李志辉say no
