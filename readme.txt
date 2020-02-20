@@ -4,3 +4,5 @@ this is master
 keep going!!!
 		--李志辉say no
 very fast!!
+
+i have push to remote ip
